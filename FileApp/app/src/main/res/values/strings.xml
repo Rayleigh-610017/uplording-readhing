@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Event</string>
+    <string name="text_label">文字列の入力</string>
+    <string name="text_hint">文字列を入力してください。</string>
+    <string name="text_save">保存</string>
+    <string name="text_read">読み取り</string>
+    <string name="text_add">追記</string>
+</resources>

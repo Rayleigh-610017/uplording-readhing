@@ -1,2 +1,2 @@
 # uplording-readhing
-読み取りアプリ
+android studioの練習３
