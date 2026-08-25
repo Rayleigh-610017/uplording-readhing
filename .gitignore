@@ -1,3 +1,8 @@
 Calculator/local.properties
 Calculator/.idea/
 Calculator/build/
+local.properties
+.idea/
+.gradle/
+build/
+app/build/
