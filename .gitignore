@@ -6,3 +6,8 @@ local.properties
 .gradle/
 build/
 app/build/
+Calculator/local.properties
+Calculator/.idea/
+Calculator/.gradle/
+Calculator/build/
+Calculator/app/build/
